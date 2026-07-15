@@ -1,3 +1,5 @@
+*from Hung Dinh Phu Dang (Đặng Đình Phú Hưng), https://github.com/nahhididwin/;
+
 # THUẬT TOÁN GIẢI ĐỘNG HỌC CHẤT ĐIỂM (KINEMATICS)
 ### Dành cho: Olympic Vật Lý TP.HCM — Khối 10
 ### Đối tượng: Học sinh tầm trung, trực giác vật lý tầm trung, **kỷ luật và tuân thủ**
